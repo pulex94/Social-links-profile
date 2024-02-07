@@ -20,13 +20,11 @@ p {
   min-width: 400px;
   min-height: 600px;
   border-radius: 15px;
-  margin: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   color: white;
-  margin: 20px
 }
 
 .upperDiv {
