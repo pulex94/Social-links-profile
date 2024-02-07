@@ -17,8 +17,8 @@ p {
 
 .container {
   background-color: hsl(0, 0%, 12%);
-  min-width: 400px;
-  min-height: 600px;
+  width: 400px;
+  height: 600px;
   border-radius: 15px;
   display: flex;
   flex-direction: column;
